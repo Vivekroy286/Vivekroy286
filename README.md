@@ -23,7 +23,7 @@ Prior to Eazicore, I worked as a Backend Developer at **ArxVision**, building hi
 - **Current focus:** Salesforce Development (Apex, LWC, SOQL Optimization, Flows, Integrations) & Modular System Architecture
 - **Core Strengths:** Enterprise Asset Management (EAM), Asynchronous Processing, API-first Design, System Performance Optimization
 - **Education:** B.Tech in Computer Science from AKTU / BBDITM (2019 - 2023)
-- **Contact:** [286royv@gmail.com](mailto:286royv@gmail.com) | +91-9793934727
+- **Contact:** [vivek.itdev@gmail.com](mailto:vivek.itdev@gmail.com) | +91-9793934727
 
 ## Experience
 
