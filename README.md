@@ -16,8 +16,6 @@
   <a href="mailto:vivek.itdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Vivekroy286/Vivekroy286/main/assets/Salesforce%20Developer%20Tech%20Banner.png" width="0" height="0" alt="" />
-
 ---
 
 ## Overview
