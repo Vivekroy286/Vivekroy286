@@ -28,7 +28,7 @@ Before moving into the Salesforce ecosystem, I worked as a **Backend Developer a
 - **Core strengths:** Enterprise Asset Management (EAM), asynchronous processing, API-first design and system performance optimisation
 - **Engineering mindset:** testable Apex, readable service layers, debugging discipline and static code analysis
 - **Education:** B.Tech in Computer Science — AKTU / BBDITM (2019 – 2023)
-- **Contact:** [vivek.itdev@gmail.com](mailto:vivek.itdev@gmail.com)Lucknow, India
+- **Contact:** [vivek.itdev@gmail.com](mailto:vivek.itdev@gmail.com) · Lucknow, India
 
 ---
 
