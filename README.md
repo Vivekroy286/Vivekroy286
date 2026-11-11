@@ -69,7 +69,16 @@ Prior to Eazicore, I worked as a Backend Developer at **ArxVision**, building hi
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekroy286&bg_color=0d1117&color=00A1E0&line=005FB2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+  <!-- Contribution heatmap: last 12 months of activity (rendered by ghchart, no Vercel dependency) -->
+  <img width="96%" src="https://ghchart.rshah.org/00A1E0/Vivekroy286" alt="Vivekroy286's GitHub contribution graph" />
+
+  <br />
+  <br />
+
+  <!-- Streak + current/max contribution stats -->
+  <a href="https://github.com/Vivekroy286">
+    <img src="https://streak-stats.demolab.com?user=Vivekroy286&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Vivekroy286's GitHub streak" height="165" />
+  </a>
 
 </div>
 
